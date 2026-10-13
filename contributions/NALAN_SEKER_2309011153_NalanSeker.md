@@ -10,4 +10,5 @@
 - Integrated the main project code and CLI workflow into the project repository.
 - Ran manual end-to-end checks for dry-run mode and real file movement using sample files.
 - Coordinated project documentation and the final GitHub submission.
+- Created and executed a pytest test suite, verifying that all 7 tests passed successfully.
 
